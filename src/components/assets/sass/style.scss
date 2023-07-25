@@ -30,8 +30,11 @@ a {
     color: #fff;
 
     .mh-about-tag {
+        
         ul {
             display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
 
             li {
                 list-style: none;

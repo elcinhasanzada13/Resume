@@ -17,12 +17,12 @@ const About = () => {
           <h2 className="text-center wow fadeInUp mb-4" data-wow-duration="0.8s" data-wow-delay="0.1s" style={{visibility: 'visible', animationDuration: '0.8s', animationDelay: '0.1s', animationName: 'fadeInUp', color:'#0BBBA0'}}>About Me</h2>
           <p className="wow fadeInUp mb-4" data-wow-duration="0.8s" data-wow-delay="0.2s" style={{visibility: 'visible', animationDuration: '0.8s', animationDelay: '0.2s', animationName: 'fadeInUp'}}>Hello, I’m a Elchin, web-developer based on Baku.
             I am good at</p>
-          <div className="mh-about-tag wow fadeInUp mb-5 d" data-wow-duration="0.8s" data-wow-delay="0.3s" style={{visibility: 'visible', animationDuration: '0.8s', animationDelay: '0.3s', animationName: 'fadeInUp'}}>
+          <div className="mh-about-tag wow fadeInUp mb-5" data-wow-duration="0.8s" data-wow-delay="0.3s" style={{visibility: 'visible', animationDuration: '0.8s', animationDelay: '0.3s', animationName: 'fadeInUp'}}>
             <ul>
-              <li className='me-2'><span>HTML</span></li>
-              <li className='me-2'><span>Scss</span></li>
-              <li className='me-2'><span>React</span></li>
-              <li className='me-2'><span>JQuery</span></li>
+              <li className='me-1'><span>HTML</span></li>
+              <li className='me-1'><span>Scss</span></li>
+              <li className='me-1'><span>React</span></li>
+              <li className='me-1'><span>JQuery</span></li>
               <li><span>JavaScript</span></li>
             </ul>
           </div>
