@@ -21,6 +21,7 @@ const About = () => {
             <ul>
               <li className='me-1'><span>HTML</span></li>
               <li className='me-1'><span>Scss</span></li>
+              <li className='me-1'><span>Bootstrap</span></li>
               <li className='me-1'><span>React</span></li>
               <li className='me-1'><span>JQuery</span></li>
               <li><span>JavaScript</span></li>

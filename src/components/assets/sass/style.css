@@ -31,10 +31,13 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 60%;
+  flex-wrap: wrap;
+  width: 80%;
+  height: 15vh;
 }
 #about .mh-about-tag ul li {
   list-style: none;
+  width: 30%;
 }
 #about .mh-about-tag ul li span {
   border: 1px solid #0bceaf;
