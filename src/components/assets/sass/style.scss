@@ -30,12 +30,12 @@ a {
     color: #fff;
 
     .mh-about-tag {
-        
+            
         ul {
             display: flex;
-            flex-direction: column;
-            flex-wrap: wrap;
-
+            justify-content: center;
+            align-items: center;
+            width: 60%;
             li {
                 list-style: none;
 

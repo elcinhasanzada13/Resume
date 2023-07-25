@@ -29,6 +29,9 @@ a {
 }
 #about .mh-about-tag ul {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
 }
 #about .mh-about-tag ul li {
   list-style: none;
